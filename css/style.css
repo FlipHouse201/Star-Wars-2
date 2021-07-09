@@ -1,0 +1,72 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#header-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/malgu.png);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+#first-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/wp2814316-darth-vader-1080p-wallpaper.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+#third-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/wallpaperflare.com_wallpaper.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+#fourth-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/Kylo\ Ren\ Star\ Wars\ Wallpapers\ HD\ Wallpapers.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+
+
+#seconde-section{
+    background-color: #2d0101;
+}
+#nice_color{
+    color: #2f1414;
+}
+.text_in_white{
+    color:white
+}
+#background_in_dark{
+   background-color:black
+}
+.background_in_black{
+    background-color:black
+ }
+ .background_of_black{
+    background-color:rgb(54, 24, 24)
+ }
+.text_in_light{
+    color: white;
+}
+.text_in_space{
+display: inline-block;
+    margin-right: 11px;
+}
+#parallax-section {
+    background-image: url(../images/5e7733d5bcc240c2cbe43d8c95562327.jpg);
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#footer-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0)), url(../images/transparent.png);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+a:active {
+  color: red;
+}

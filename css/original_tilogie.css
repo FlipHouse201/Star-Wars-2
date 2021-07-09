@@ -1,0 +1,50 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#first-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/malgu.png);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+
+#seconde-section{
+    background-color: #2d0101;
+}
+#nice_color{
+    color: #2f1414;
+}
+.text_in_white{
+    color:white
+}
+#background_in_dark{
+   background-color:black
+}
+.background_in_black{
+    background-color:black
+ }
+ .background_of_black{
+    background-color:rgb(54, 24, 24)
+ }
+.text_in_light{
+    color: white;
+}
+.text_in_space{
+display: inline-block;
+    margin-right: 11px;
+}
+#parallax-section {
+    background-image: url(../images/maul.jpeg);
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#footer-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/malgu.png);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
